@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshanragavendarb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Greedy
 |  |
 | ------- |
