@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
+| [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lakshanragavendarb/leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshanragavendarb/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
