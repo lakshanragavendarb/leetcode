@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0989-add-to-array-form-of-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lakshanragavendarb/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
+| [0989-add-to-array-form-of-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshanragavendarb/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
