@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshanragavendarb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/lakshanragavendarb/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshanragavendarb/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/lakshanragavendarb/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/lakshanragavendarb/leetcode/tree/master/0443-string-compression) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
 ## Tree
 |  |
@@ -113,9 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshanragavendarb/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshanragavendarb/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
