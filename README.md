@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/lakshanragavendarb/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/lakshanragavendarb/leetcode/tree/master/0443-string-compression) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/lakshanragavendarb/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
