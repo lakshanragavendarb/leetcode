@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1550-three-consecutive-odds](https://github.com/lakshanragavendarb/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lakshanragavendarb/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
