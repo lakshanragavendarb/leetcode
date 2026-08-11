@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lakshanragavendarb/leetcode/tree/master/0141-linked-list-cycle) |
 | [0443-string-compression](https://github.com/lakshanragavendarb/leetcode/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/lakshanragavendarb/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshanragavendarb/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lakshanragavendarb/leetcode/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/lakshanragavendarb/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshanragavendarb/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/lakshanragavendarb/leetcode/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/lakshanragavendarb/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Newton's Method
 |  |
 | ------- |
