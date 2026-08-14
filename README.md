@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshanragavendarb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/lakshanragavendarb/leetcode/tree/master/0141-linked-list-cycle) |
+| [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/lakshanragavendarb/leetcode/tree/master/0383-ransom-note) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
 ## String
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lakshanragavendarb/leetcode/tree/master/0069-sqrtx) |
+| [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [0633-sum-of-square-numbers](https://github.com/lakshanragavendarb/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshanragavendarb/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0113-path-sum-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
