@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshanragavendarb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/lakshanragavendarb/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshanragavendarb/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/lakshanragavendarb/leetcode/tree/master/0344-reverse-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -168,9 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0113-path-sum-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
