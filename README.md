@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lakshanragavendarb/leetcode/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/lakshanragavendarb/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/lakshanragavendarb/leetcode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0113-path-sum-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/lakshanragavendarb/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
