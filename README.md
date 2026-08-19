@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshanragavendarb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lakshanragavendarb/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lakshanragavendarb/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1550-three-consecutive-odds](https://github.com/lakshanragavendarb/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lakshanragavendarb/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lakshanragavendarb/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
