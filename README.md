@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshanragavendarb/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lakshanragavendarb/leetcode/tree/master/0141-linked-list-cycle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lakshanragavendarb/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/lakshanragavendarb/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
