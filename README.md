@@ -215,5 +215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/lakshanragavendarb/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1172-dinner-plate-stacks](https://github.com/lakshanragavendarb/leetcode/tree/master/1172-dinner-plate-stacks) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/lakshanragavendarb/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/lakshanragavendarb/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
