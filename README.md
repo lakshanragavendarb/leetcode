@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/lakshanragavendarb/leetcode/tree/master/0383-ransom-note) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1172-dinner-plate-stacks](https://github.com/lakshanragavendarb/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshanragavendarb/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/lakshanragavendarb/leetcode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
+| [1172-dinner-plate-stacks](https://github.com/lakshanragavendarb/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
+| [1172-dinner-plate-stacks](https://github.com/lakshanragavendarb/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/lakshanragavendarb/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/lakshanragavendarb/leetcode/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [1172-dinner-plate-stacks](https://github.com/lakshanragavendarb/leetcode/tree/master/1172-dinner-plate-stacks) |
 <!---LeetCode Topics End-->
