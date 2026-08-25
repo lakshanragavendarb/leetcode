@@ -114,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshanragavendarb/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/lakshanragavendarb/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshanragavendarb/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/lakshanragavendarb/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshanragavendarb/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/lakshanragavendarb/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/lakshanragavendarb/leetcode/tree/master/0933-number-of-recent-calls) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/lakshanragavendarb/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
