@@ -127,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshanragavendarb/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshanragavendarb/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
 | [0938-range-sum-of-bst](https://github.com/lakshanragavendarb/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/lakshanragavendarb/leetcode/tree/master/0627-swap-sex-of-employees) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
