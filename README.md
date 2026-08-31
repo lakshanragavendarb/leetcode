@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/lakshanragavendarb/leetcode/tree/master/0695-max-area-of-island) |
 | [0881-boats-to-save-people](https://github.com/lakshanragavendarb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/lakshanragavendarb/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -128,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshanragavendarb/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshanragavendarb/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/lakshanragavendarb/leetcode/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/lakshanragavendarb/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/lakshanragavendarb/leetcode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/lakshanragavendarb/leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,8 +264,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/lakshanragavendarb/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lakshanragavendarb/leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/lakshanragavendarb/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
