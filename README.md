@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lakshanragavendarb/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lakshanragavendarb/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/lakshanragavendarb/leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [0633-sum-of-square-numbers](https://github.com/lakshanragavendarb/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/lakshanragavendarb/leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lakshanragavendarb/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/lakshanragavendarb/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/lakshanragavendarb/leetcode/tree/master/0695-max-area-of-island) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lakshanragavendarb/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
