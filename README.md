@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/lakshanragavendarb/leetcode/tree/master/0383-ransom-note) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1172-dinner-plate-stacks](https://github.com/lakshanragavendarb/leetcode/tree/master/1172-dinner-plate-stacks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshanragavendarb/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/lakshanragavendarb/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/lakshanragavendarb/leetcode/tree/master/0443-string-compression) |
 | [0890-find-and-replace-pattern](https://github.com/lakshanragavendarb/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshanragavendarb/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshanragavendarb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lakshanragavendarb/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshanragavendarb/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
