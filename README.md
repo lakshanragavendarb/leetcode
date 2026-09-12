@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lakshanragavendarb/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1550-three-consecutive-odds](https://github.com/lakshanragavendarb/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/lakshanragavendarb/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1991-find-the-middle-index-in-array](https://github.com/lakshanragavendarb/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lakshanragavendarb/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lakshanragavendarb/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshanragavendarb/leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/lakshanragavendarb/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
