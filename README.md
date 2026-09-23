@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/lakshanragavendarb/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/lakshanragavendarb/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lakshanragavendarb/leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0463-island-perimeter](https://github.com/lakshanragavendarb/leetcode/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/lakshanragavendarb/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/lakshanragavendarb/leetcode/tree/master/0695-max-area-of-island) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lakshanragavendarb/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lakshanragavendarb/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/lakshanragavendarb/leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/lakshanragavendarb/leetcode/tree/master/0264-ugly-number-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lakshanragavendarb/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lakshanragavendarb/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
